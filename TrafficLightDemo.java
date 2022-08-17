@@ -3,7 +3,7 @@ package com.company;
 enum TrafficLightColor {
     RED(10000), GREEN(10000), YELLOW(2000);
 
-    private int time;
+    private int time1;
 
     TrafficLightColor(int t) {
         time = t;
